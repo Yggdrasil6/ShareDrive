@@ -1,0 +1,13 @@
+前端：JS :reactjs 、ECMASCript6、ajax 、
+      CSS: Material-UI或者Semantic-UI
+
+      其他：其他乱七八糟的控件
+
+
+后端：Spring boot
+      Spring security
+      * Spring cloud（zuul ，feign）暂时不需要
+      Spring session
+      Redis
+
+      			
